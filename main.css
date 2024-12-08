@@ -68,7 +68,7 @@ header nav ul li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('2b2744ca01403e9a37d093bae71c9a19.webp');
+    background-image: url('../imgs/2b2744ca01403e9a37d093bae71c9a19.webp');
     height: 85vh;
     background-size: cover;
 }
@@ -175,3 +175,5 @@ to{
         align-items: center;
     }
 }
+
+html { scroll-behavior: smooth; }
